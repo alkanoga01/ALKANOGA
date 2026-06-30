@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conoce a Nuestros Residentes | Casa Hogar Rayito de Luz</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        .residentes-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .residente-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(230, 92, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            border-top: 4px solid #e65c00;
+        }
+
+        .residente-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(230, 92, 0, 0.2);
+        }
+
+        .residente-foto {
+            width: 100%;
+            height: 300px;
+            overflow: hidden;
+            background: #f0f0f0;
+        }
+
+        .residente-foto img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .residente-content {
+            padding: 25px;
+        }
+
+        .residente-nombre {
+            font-size: 1.5rem;
+            color: #e65c00;
+            margin: 0 0 5px 0;
+            font-weight: bold;
+        }
+
+        .residente-edad {
+            color: #999;
+            font-size: 0.95rem;
+            margin-bottom: 15px;
+        }
+
+        .residente-historia {
+            color: #555;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            max-height: 150px;
+            overflow-y: auto;
+        }
+
+        .residente-info {
+            background: #ffe6d5;
+            padding: 12px;
+            border-radius: 6px;
+            font-size: 0.9rem;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .residente-info strong {
+            color: #e65c00;
+        }
+
+        .residente-intereses {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid #eee;
+            font-size: 0.9rem;
+        }
+
+        .residente-intereses strong {
+            color: #e65c00;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <h1 class="logo"><a href="index.html">Alkanoga</a></h1>
+            <nav class="main-nav">
+                <a href="index.html">Inicio</a>
+                <a href="sobreproyecto.html">Sobre Nuestro Proyecto</a>
+                <a href="index.html#directorio">Fundaciones</a>
+                <a href="#residentes" class="active">Nuestros Residentes</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Encabezado de la página -->
+    <section class="page-title-banner" style="background: linear-gradient(135deg, #e65c00 0%, #ff944d 100%); color: white; padding: 60px 0; text-align: center;">
+        <div class="container">
+            <h2 style="color: white; font-size: 2.5rem; margin: 0;">Conoce a Nuestros Residentes</h2>
+            <p style="margin-top: 10px; opacity: 0.9; font-size: 1.1rem;">Historias de vida, fortaleza y dignidad</p>
+        </div>
+    </section>
+
+    <!-- Sección de Residentes -->
+    <section id="residentes" class="inner-section">
+        <div class="container">
+            <p class="text-center" style="max-width: 800px; margin: 0 auto 40px auto; font-size: 1.05rem; color: #666;">
+                Los 9 adultos mayores que viven en Casa Hogar Rayito de Luz tienen historias únicas y valiosas. 
+                Aquí puedes conocerlos y conectar con su realidad.
+            </p>
+
+            <!-- Grid de Residentes (se llena con JavaScript) -->
+            <div class="residentes-grid" id="residentes-container"></div>
+        </div>
+    </section>
+
+    <!-- Pie de página -->
+    <footer class="main-footer">
+        <div class="container text-center">
+            <p><a href="asilo-rayitos-de-sol.html" class="back-link">← Volver a Casa Hogar Rayito de Luz</a></p>
+            <p>© 2026 Alkanoga - Proyecto de Desarrollo Social. Creado con fines benéficos.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Cargar los datos de los residentes
+        fetch('datos-residentes.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('residentes-container');
+                
+                data.residentes.forEach(residente => {
+                    // Solo mostrar residentes con historias completas
+                    if (residente.historia !== 'Completa con la historia del quinto residente...' &&
+                        residente.historia !== 'Completa con la historia del sexto residente...' &&
+                        residente.historia !== 'Completa con la historia del séptimo residente...' &&
+                        residente.historia !== 'Completa con la historia del octavo residente...' &&
+                        residente.historia !== 'Completa con la historia del noveno residente...') {
+                        
+                        const card = document.createElement('div');
+                        card.className = 'residente-card';
+                        card.innerHTML = `
+                            <div class="residente-foto">
+                                <img src="images/residentes/${residente.foto}" alt="${residente.nombre}">
+                            </div>
+                            <div class="residente-content">
+                                <h3 class="residente-nombre">${residente.nombre}</h3>
+                                <p class="residente-edad">${residente.edad} años</p>
+                                <p class="residente-historia">${residente.historia}</p>
+                                <div class="residente-info">
+                                    <strong>Profesión:</strong> ${residente.profesion}
+                                </div>
+                                <div class="residente-info">
+                                    <strong>Familia:</strong> ${residente.familia}
+                                </div>
+                                <div class="residente-intereses">
+                                    <strong>Intereses:</strong> ${residente.intereses}
+                                </div>
+                            </div>
+                        `;
+                        container.appendChild(card);
+                    }
+                });
+            })
+            .catch(error => console.error('Error al cargar residentes:', error));
+    </script>
+
+</body>
+</html>
