@@ -1,0 +1,112 @@
+{
+  "residentes": [
+    {
+      "id": 1,
+      "nombre": "Don Jesús",
+      "edad": 75,
+      "fechaNacimiento": "1 de octubre de 1951",
+      "ubicacion": "Retalhuleu, Novena Avenida, Zona 1",
+      "historia": "Don Jesús nació el 1 de octubre de 1951 y actualmente tiene 75 años. Vivió gran parte de su vida en Retalhuleu, específicamente en la novena avenida de la zona 1. A lo largo de nuestra conversación nos compartió algunos recuerdos muy especiales sobre su vida, su familia y las experiencias que marcaron su camino. Nos contó que tuvo un hijo, aunque prefirió no profundizar mucho en ese aspecto. Sin embargo, habló con mucho cariño y admiración de su hermano Augusto, a quien recuerda constantemente y considera una persona muy importante en su vida. Desde joven le gustaba estudiar y también practicó fútbol, aunque nos comentó que su hermano era quien realmente sentía una gran pasión por este deporte. Don Jesús dedicó gran parte de su vida a trabajar como vendedor ambulante, una labor que le permitió conocer a muchas personas y recorrer distintos lugares, desde varias zonas de Retalhuleu hasta algunos puntos fronterizos con México. Durante su vida ha acumulado innumerables historias y experiencias que comparte con una lucidez y una alegría admirables. También nos contó que le gustan mucho los dulces y el chocolate, pequeños detalles que reflejan la sencillez y la calidez de su personalidad. Tener la oportunidad de conversar con don Jesús ha sido una experiencia muy significativa para nosotros. Escuchar sus historias nos permitió comprender la importancia de brindar compañía, atención y tiempo de calidad a las personas mayores.",
+      "intereses": "Estudiar, fútbol, historias, dulces, chocolate",
+      "familia": "Hermano: Augusto (muy admirado), Un hijo",
+      "profesion": "Vendedor ambulante",
+      "foto": "jesus.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Nombre del Residente 2",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del segundo residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Nombre del Residente 3",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del tercer residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Nombre del Residente 4",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del cuarto residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente4.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Nombre del Residente 5",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del quinto residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente5.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Nombre del Residente 6",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del sexto residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente6.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Nombre del Residente 7",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del séptimo residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente7.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Nombre del Residente 8",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del octavo residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente8.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Nombre del Residente 9",
+      "edad": 0,
+      "fechaNacimiento": "Completar",
+      "ubicacion": "Completar",
+      "historia": "Completa con la historia del noveno residente...",
+      "intereses": "Completar",
+      "familia": "Completar",
+      "profesion": "Completar",
+      "foto": "residente9.jpg"
+    }
+  ]
+}
