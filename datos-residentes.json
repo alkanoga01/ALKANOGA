@@ -7,10 +7,10 @@
       "fechaNacimiento": "1 de octubre de 1951",
       "ubicacion": "Retalhuleu, Novena Avenida, Zona 1",
       "historia": "Don Jesús nació el 1 de octubre de 1951 y actualmente tiene 75 años. Vivió gran parte de su vida en Retalhuleu, específicamente en la novena avenida de la zona 1. A lo largo de su vida trabajó como vendedor ambulante, dedicándose a compartir sus productos con la comunidad. Su hermano Augusto es alguien a quien admira profundamente, y tiene un hijo. Don Jesús es una persona con intereses variados: disfruta estudiando, le encanta el fútbol, le fascinan las historias, y tiene debilidad por los dulces y el chocolate. En Rayitos de Luz, Don Jesús continúa siendo una persona activa y participativa, compartiendo su sabiduría y alegría con todos los que lo rodean.",
-      "intereses": "Estudiar, f��tbol, historias, dulces, chocolate",
+      "intereses": "Estudiar, fútbol, historias, dulces, chocolate",
       "familia": "Hermano: Augusto (muy admirado), Un hijo",
       "profesion": "Vendedor ambulante",
-      "foto": "jesus.jpg"
+      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/jesus.jpg"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "intereses": "Béisbol, fútbol, deporte, conversación, ayudar a otros",
       "familia": "No especificada",
       "profesion": "Vendedor ambulante, albañil",
-      "foto": "mario.jpg"
+      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/images/mario.jpg.jpeg"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "intereses": "Familia, cocina tradicional, tamales, caldo de res, espacios abiertos",
       "familia": "Mayor de cuatro hermanos (dos hermanas y dos hermanos menores), hijos y exesposa en Estados Unidos",
       "profesion": "Tapicero, trabajador agrícola",
-      "foto": "sergio.jpg"
+      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/images/sergio.jpg.jpeg"
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "intereses": "Conversación, fe, evangelio, familia, recuerdos",
       "familia": "12 hijos, 33 nietos y bisnietos",
       "profesion": "Vendedora de pescado, ama de casa",
-      "foto": "justa.jpg"
+      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/images/justa.jpg.jpeg"
     },
     {
       "id": 5,
