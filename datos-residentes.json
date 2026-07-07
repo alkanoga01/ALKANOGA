@@ -6,7 +6,7 @@
       "edad": 75,
       "fechaNacimiento": "1 de octubre de 1951",
       "ubicacion": "Retalhuleu, Novena Avenida, Zona 1",
-      "historia": "Don Jesús nació el 1 de octubre de 1951 y actualmente tiene 75 años. Vivió gran parte de su vida en Retalhuleu, específicamente en la novena avenida de la zona 1. A lo largo de los años, ha sido vendedor ambulante, desempeñando este oficio con dedicación. Sus intereses incluyen estudiar, fútbol, historias, dulces y chocolate. Su hermano Augusto es muy admirado por él, y tiene un hijo. Su historia es un ejemplo de trabajo constante y dedicación familiar.",
+      "historia": "Don Jesús nació el 1 de octubre de 1951 y actualmente tiene 75 años. Vivió gran parte de su vida en Retalhuleu, específicamente en la novena avenida de la zona 1. A lo largo[...]",
       "intereses": "Estudiar, fútbol, historias, dulces, chocolate",
       "familia": "Hermano: Augusto (muy admirado), Un hijo",
       "profesion": "Vendedor ambulante",
@@ -18,11 +18,11 @@
       "edad": 63,
       "fechaNacimiento": "1 de agosto",
       "ubicacion": "Retalhuleu",
-      "historia": "Don Mario es uno de los nueve integrantes de la familia de Rayitos de Luz. Actualmente tiene 63 años, siendo uno de los miembros más jóvenes de la fundación. Desde nuestra primera conversación, nos mostró su amabilidad y su pasión por los deportes. A través del tiempo, ha compartido sus experiencias como vendedor ambulante y albañil, trabajos que desempeña con orgullo. Su dedicación al trabajo y su amor por el deporte son características que lo definen.",
+      "historia": "Don Mario es uno de los nueve integrantes de la familia de Rayitos de Luz. Actualmente tiene 63 años, siendo uno de los miembros más jóvenes de la fundación. Desde nuestra p[...]",
       "intereses": "Béisbol, fútbol, deporte, conversación, ayudar a otros",
       "familia": "No especificada",
       "profesion": "Vendedor ambulante, albañil",
-      "foto": "mario.jpg"
+      "foto": "mario.jpg.jpeg"
     },
     {
       "id": 3,
@@ -30,11 +30,11 @@
       "edad": "No especificada",
       "fechaNacimiento": "No especificada",
       "ubicacion": "Retalhuleu",
-      "historia": "Don Sergio es una de las personas que forman parte de la familia de Rayitos de Luz. A lo largo de nuestra conversación descubrimos a un hombre trabajador, amable y profundamente conectado con sus raíces. Como tapicero y trabajador agrícola, ha dedicado su vida al trabajo. Sus intereses giran en torno a la familia, la cocina tradicional y espacios abiertos. Es el mayor de cuatro hermanos y tiene hijos y exesposa en Estados Unidos.",
+      "historia": "Don Sergio es una de las personas que forman parte de la familia de Rayitos de Luz. A lo largo de nuestra conversación descubrimos a un hombre trabajador, amable y profundament[...]",
       "intereses": "Familia, cocina tradicional, tamales, caldo de res, espacios abiertos",
       "familia": "Mayor de cuatro hermanos (dos hermanas y dos hermanos menores), hijos y exesposa en Estados Unidos",
       "profesion": "Tapicero, trabajador agrícola",
-      "foto": "sergio.jpg"
+      "foto": "sergio.jpg.jpeg"
     },
     {
       "id": 4,
@@ -42,11 +42,11 @@
       "edad": "77",
       "fechaNacimiento": "No especificada",
       "ubicacion": "San Felipe",
-      "historia": "Doña Justa es una de las personas que forman parte de la familia de Rayitos de Luz y una de las primeras personas con las que tuvimos la oportunidad de conversar durante nuestras visitas. A los 77 años, es una mujer llena de fe y sabiduría. Su vida como vendedora de pescado y ama de casa le ha dado una perspectiva única sobre la vida. Con 12 hijos, 33 nietos y bisnietos, su legado familiar es vasto y significativo.",
+      "historia": "Doña Justa es una de las personas que forman parte de la familia de Rayitos de Luz y una de las primeras personas con las que tuvimos la oportunidad de conversar durante nuestr[...]",
       "intereses": "Conversación, fe, evangelio, familia, recuerdos",
       "familia": "12 hijos, 33 nietos y bisnietos",
       "profesion": "Vendedora de pescado, ama de casa",
-      "foto": "justa.jpg"
+      "foto": "justa.jpg.jpeg"
     },
     {
       "id": 5,
