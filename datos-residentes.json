@@ -6,11 +6,11 @@
       "edad": 75,
       "fechaNacimiento": "1 de octubre de 1951",
       "ubicacion": "Retalhuleu, Novena Avenida, Zona 1",
-      "historia": "Don Jesús nació el 1 de octubre de 1951 y actualmente tiene 75 años. Vivió gran parte de su vida en Retalhuleu, específicamente en la novena avenida de la zona 1. A lo largo de su vida trabajó como vendedor ambulante, dedicándose a compartir sus productos con la comunidad. Su hermano Augusto es alguien a quien admira profundamente, y tiene un hijo. Don Jesús es una persona con intereses variados: disfruta estudiando, le encanta el fútbol, le fascinan las historias, y tiene debilidad por los dulces y el chocolate. En Rayitos de Luz, Don Jesús continúa siendo una persona activa y participativa, compartiendo su sabiduría y alegría con todos los que lo rodean.",
+      "historia": "Don Jesús nació el 1 de octubre de 1951 y actualmente tiene 75 años. Vivió gran parte de su vida en Retalhuleu, específicamente en la novena avenida de la zona 1. A lo largo de los años, ha sido vendedor ambulante, desempeñando este oficio con dedicación. Sus intereses incluyen estudiar, fútbol, historias, dulces y chocolate. Su hermano Augusto es muy admirado por él, y tiene un hijo. Su historia es un ejemplo de trabajo constante y dedicación familiar.",
       "intereses": "Estudiar, fútbol, historias, dulces, chocolate",
       "familia": "Hermano: Augusto (muy admirado), Un hijo",
       "profesion": "Vendedor ambulante",
-      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/jesus.jpg"
+      "foto": "jesus.jpg"
     },
     {
       "id": 2,
@@ -18,11 +18,11 @@
       "edad": 63,
       "fechaNacimiento": "1 de agosto",
       "ubicacion": "Retalhuleu",
-      "historia": "Don Mario es uno de los nueve integrantes de la familia de Rayitos de Luz. Actualmente tiene 63 años, siendo uno de los miembros más jóvenes de la fundación. Desde nuestra primera conversación con él, Don Mario se mostró como una persona amigable, proactiva y con ganas de ayudar. Ha trabajado en diferentes oficios a lo largo de su vida: como vendedor ambulante y albañil. Sus pasiones incluyen el béisbol y el fútbol, y disfruta mucho de las conversaciones significativas. Una de sus características más admirables es su disposición constante a ayudar a otros. En la casa hogar, Don Mario es considerado como un pilar importante, siempre dispuesto a contribuir al bienestar de la comunidad.",
+      "historia": "Don Mario es uno de los nueve integrantes de la familia de Rayitos de Luz. Actualmente tiene 63 años, siendo uno de los miembros más jóvenes de la fundación. Desde nuestra primera conversación, nos mostró su amabilidad y su pasión por los deportes. A través del tiempo, ha compartido sus experiencias como vendedor ambulante y albañil, trabajos que desempeña con orgullo. Su dedicación al trabajo y su amor por el deporte son características que lo definen.",
       "intereses": "Béisbol, fútbol, deporte, conversación, ayudar a otros",
       "familia": "No especificada",
       "profesion": "Vendedor ambulante, albañil",
-      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/images/mario.jpg.jpeg"
+      "foto": "mario.jpg"
     },
     {
       "id": 3,
@@ -30,11 +30,11 @@
       "edad": "No especificada",
       "fechaNacimiento": "No especificada",
       "ubicacion": "Retalhuleu",
-      "historia": "Don Sergio es una de las personas que forman parte de la familia de Rayitos de Luz. A lo largo de nuestra conversación descubrimos a un hombre trabajador, amable y profundamente vinculado a su familia. Ha desempeñado oficios como tapicero y trabajador agrícola. Sergio es el mayor de cuatro hermanos y tiene familia en Estados Unidos. A Don Sergio le encanta la cocina tradicional, especialmente los tamales y el caldo de res. Disfruta pasar tiempo en espacios abiertos y valoriza profundamente el tiempo en familia. Sus contribuciones a Rayitos de Luz reflejan su naturaleza solidaria y su deseo de estar rodeado de un ambiente familiar.",
+      "historia": "Don Sergio es una de las personas que forman parte de la familia de Rayitos de Luz. A lo largo de nuestra conversación descubrimos a un hombre trabajador, amable y profundamente conectado con sus raíces. Como tapicero y trabajador agrícola, ha dedicado su vida al trabajo. Sus intereses giran en torno a la familia, la cocina tradicional y espacios abiertos. Es el mayor de cuatro hermanos y tiene hijos y exesposa en Estados Unidos.",
       "intereses": "Familia, cocina tradicional, tamales, caldo de res, espacios abiertos",
       "familia": "Mayor de cuatro hermanos (dos hermanas y dos hermanos menores), hijos y exesposa en Estados Unidos",
       "profesion": "Tapicero, trabajador agrícola",
-      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/images/sergio.jpg.jpeg"
+      "foto": "sergio.jpg"
     },
     {
       "id": 4,
@@ -42,11 +42,11 @@
       "edad": "77",
       "fechaNacimiento": "No especificada",
       "ubicacion": "San Felipe",
-      "historia": "Doña Justa es una de las personas que forman parte de la familia de Rayitos de Luz y una de las primeras personas con las que tuvimos la oportunidad de conversar durante nuestras visitas. Es una mujer de 77 años originaria de San Felipe, que ha vivido una vida plena rodeada de una extensa familia. Doña Justa ha criado a 12 hijos y ahora cuenta con 33 nietos y bisnietos, lo que habla de su importante rol como matriarca. Trabajó como vendedora de pescado y ama de casa, dedicándose al cuidado de su familia. Sus pasiones actuales incluyen las conversaciones significativas, su fe y el evangelio, recordar momentos con su familia y reflexionar sobre sus recuerdos. En Rayitos de Luz, Doña Justa es una fuente de sabiduría y cariño, compartiendo su experiencia de vida con todos los que la rodean.",
+      "historia": "Doña Justa es una de las personas que forman parte de la familia de Rayitos de Luz y una de las primeras personas con las que tuvimos la oportunidad de conversar durante nuestras visitas. A los 77 años, es una mujer llena de fe y sabiduría. Su vida como vendedora de pescado y ama de casa le ha dado una perspectiva única sobre la vida. Con 12 hijos, 33 nietos y bisnietos, su legado familiar es vasto y significativo.",
       "intereses": "Conversación, fe, evangelio, familia, recuerdos",
       "familia": "12 hijos, 33 nietos y bisnietos",
       "profesion": "Vendedora de pescado, ama de casa",
-      "foto": "https://raw.githubusercontent.com/alkanoga01/ALKANOGA/main/images/justa.jpg.jpeg"
+      "foto": "justa.jpg"
     },
     {
       "id": 5,
