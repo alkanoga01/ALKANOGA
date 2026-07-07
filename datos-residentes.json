@@ -58,7 +58,7 @@
       "intereses": "Completar",
       "familia": "Completar",
       "profesion": "Completar",
-      "foto": "residente5.jpg"
+      "foto": ""
     },
     {
       "id": 6,
@@ -70,7 +70,7 @@
       "intereses": "Completar",
       "familia": "Completar",
       "profesion": "Completar",
-      "foto": "residente6.jpg"
+      "foto": ""
     },
     {
       "id": 7,
@@ -82,7 +82,7 @@
       "intereses": "Completar",
       "familia": "Completar",
       "profesion": "Completar",
-      "foto": "residente7.jpg"
+      "foto": ""
     },
     {
       "id": 8,
@@ -94,7 +94,7 @@
       "intereses": "Completar",
       "familia": "Completar",
       "profesion": "Completar",
-      "foto": "residente8.jpg"
+      "foto": ""
     },
     {
       "id": 9,
@@ -106,7 +106,7 @@
       "intereses": "Completar",
       "familia": "Completar",
       "profesion": "Completar",
-      "foto": "residente9.jpg"
+      "foto": ""
     }
   ]
 }
